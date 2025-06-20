@@ -20,7 +20,7 @@ A mobile app designed to help detect Parkinson's disease through handwriting and
 - Provider for state management
 
 ## 📷 Screenshots
-## 📷 Screenshots
+
 
 <img src="screenshots/hand-test.png" width="250"> 
 <img src="screenshots/voice-test.png" width="250"> 
