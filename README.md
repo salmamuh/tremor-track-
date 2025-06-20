@@ -1,16 +1,25 @@
-# tremor_track
+## Tremor Track
 
-A new Flutter project.
+A mobile app designed to help detect Parkinson's disease through handwriting and voice analysis. It uses machine learning (TensorFlow Lite) to analyze user input and stores results and consultations in Firebase.
 
-## Getting Started
+## 💡 Features
 
-This project is a starting point for a Flutter application.
+- Handwriting analysis using CNN model
+- Voice frequency analysis (MDVP features)
+- Firebase Authentication
+- Firestore for storing test results and user roles
+- Chat system for patient-doctor communication
+- Wallet & point system to manage test access and payments
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Firebase Auth & Firestore
+- Firebase Storage
+- audioplayers / flutter_sound
+- Provider for state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
